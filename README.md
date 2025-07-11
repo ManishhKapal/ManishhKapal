@@ -16,9 +16,9 @@ I am currently working on a **Credit Risk Modeling** project, where I assess the
 I am focused on expanding my knowledge in the machine learning field and diving deeper into advanced C++ concepts.
 
 ### ⚽ Hobbies & Interests
-- Reading books
-- Playing chess
-- Skilled in badminton
+- Book Reading
+- Chess
+- Badminton
 
 ### 🎉 Fun Facts
 - I can binge-watch an entire anime series in a single day.
