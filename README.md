@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Manish Kapal 👋</h1>
+<h1 align="center">Hi there, I'm Manish Kapal 😁</h1>
 
 <p align="center">
   🧑‍💻 Junior Software Developer & Data Analyst <br>
