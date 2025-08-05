@@ -80,7 +80,7 @@ A location-based emergency dispatch app with AI-enhanced backend decision-making
 ### 📬 Let's Connect !!
 
 
-- **WhatsApp:** 9324596750
+- **WhatsApp No.:** 9324596750
 - **Email:** [manishkapalofc@gmail.com](mailto:manishkapalofc@gmail.com)
 - **LinkedIn:** [Manish Kapal](https://www.linkedin.com/in/manish-kapal/)
 - **Instagram:** [manish_kapal](https://www.instagram.com/manish_kapal/profilecard/?igsh=d3pyMmlieHkycmJ1)
