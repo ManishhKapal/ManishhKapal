@@ -72,7 +72,7 @@ A location-based emergency dispatch app with AI-enhanced backend decision-making
 
 - 🏆 Finalist – **Rajasthan Police Hackathon 1.0**  
 - 🧾 Certified **Python & SQL Developer**  
-- 🛠️ Organized CSI Mumbai Chapter’s college-level **hackathon**  
+- 🛠️ Organized **CSI Mumbai** Chapter’s college-level **hackathon**  
 - 👨‍💻 Built & deployed live systems during internships
 
 ---
