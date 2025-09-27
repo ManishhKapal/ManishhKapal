@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a final-year Computer Science student with a strong foundation in **software engineering, data analytics, and intelligent systems**. I build real-world applications that merge backend efficiency with AI-driven insights.
+I'm a Computer Science student with a strong foundation in **software engineering, data analytics, and intelligent systems**. I build real-world applications that merge backend efficiency with AI-driven insights.
 
 💡 Passionate about leveraging tech to solve real problems  
 🧠 Constantly learning — currently diving deeper into LLMs and cloud-native development  
