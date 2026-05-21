@@ -26,11 +26,24 @@ I'm a Computer Science student with a strong foundation in **software engineerin
 
 ## 💼 Work Experience
 
+### 🔹 Implementation Engineer — *Verloop.io, Mumbai*  
+📅 Present  
+- Managed end-to-end implementation lifecycle for enterprise clients including requirement gathering, solution configuration, testing, deployment, and go-live support  
+- Conducted client meetings to understand business workflows, operational challenges, and technical requirements for conversational AI solutions  
+- Collaborated with product, engineering, and customer success teams to deliver scalable and customer-focused implementations  
+- Provided implementation feedback to development teams to improve product usability, workflows, and customer experience  
+- Handled UAT support, troubleshooting, onboarding, issue resolution, and post-deployment client support  
+- Assisted enterprise customers in adoption, workflow optimization, and operational enablement through effective communication and solution delivery  
+
+---
+
 ### 🔹 Junior Software Developer & Data Analyst — *HSNC University, Mumbai*  
 📅 Jun 2025 – Present  
 - Engineered backend modules in the university ERP to streamline administrative operations  
 - Built SQL-driven automations and analytics dashboards for academic data  
 - Actively contributed to system testing, documentation, and user training  
+
+---
 
 ### 🔹 Software Developer Intern — *Nobias Analyst India Pvt. Ltd.*  
 📅 Feb 2025 – May 2025  
